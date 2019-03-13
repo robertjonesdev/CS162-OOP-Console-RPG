@@ -1,40 +1,30 @@
 # OOP Console RPG
 
-One Paragraph of project description goes here
+“Myrddin Emry’s Realm” is a one-player, text-based fantasy game using object-oriented programming concepts. The character, Myrddin Emrys, starts just to the north of Town in the Darkwood Forest. The player can move north, south, east or west depending on the available path through the forest. Myrddin will encounter locked doors, items, healing potions, and eventually a Red Dragon. Myrddin can fight with either his fists or with the use of a longbow to shoot arrows.
+
+The goal of the game is to defeat the one Red Dragon in combat. In order to do this, Myrddin must move through the Realm going from room to room. He must collect the longbow and the wooden key items and add them to your inventory. He likely needs the healing potions, but it is possible to win without them. The key will unlock the door to eventually arrive at the Red Dragon. The weapon will allow you inflict enough damage on the dragon (using your fists will not be enough). The magic healing potion will allow you regenerate your health points to survive through the combat. As soon as you defeat the dragon you will win.
+
+Death is possible either from combat with the Red Dragon or dying of thirst by travelling too much without healing (or contributions from both).
 
 ## Getting Started
 
 Download all files to one folder with no subdirectories. A makefile is included that uses the g++ compiler.
+
 ### Prerequisites
 
-What things you need to install the software and how to install them
+For linux, you will need the GCC compiler capable of C++11 standard.
 
 ```
-Give examples
+sudo apt-get update
+sudo apt-get install g++
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+### Installing / Executing
 
 ```
-Give the example
+make
+./text-game
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
