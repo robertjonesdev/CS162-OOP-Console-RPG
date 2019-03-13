@@ -1,11 +1,11 @@
- W       
-oo    M
-o     o
-oo    Poo
- oooo   o
-    o K o
-    L o o
-  ooooo o
-  o o   o
-  o o   o
-Soo Poooo
+xxMxx
+ooooo
+oxxxo
+oxxxP
+oxxxo
+Poooo
+xxoxx
+ooLoo
+oxoxo
+oxoxo
+WxSxK
