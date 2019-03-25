@@ -6,7 +6,7 @@
 CC = g++
 CFLAGS = -g -std=c++11 -MD -MP
 OBJ = main.o Menu.o Game.o Space.o LockedRoom.o ItemRoom.o MonsterRoom.o Character.o Monster.o Item.o
-PROJECT = FinalProject_Jones_Robert
+PROJECT = OOP_Console_RPG
 BIN = text-game
 
 $(BIN): $(OBJ)

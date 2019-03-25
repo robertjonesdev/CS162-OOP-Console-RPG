@@ -1,5 +1,4 @@
 /*******************************************************************************
-** Program name: Final Project - A Text-based Game (CS162 Winter 2019)
 ** Author:       Robert Jones
 ** Date:         March 19, 2019
 ** Description: Space class definitio file. Abstract class

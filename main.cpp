@@ -1,5 +1,5 @@
 /*******************************************************************************
-** Program name: Final Project - A Text-based Game (CS162 Winter 2019)
+** Program name: OOP Console RPG - Myrddin Emrys Realm
 ** Author:       Robert Jones
 ** Date:         March 19, 2019
 ** Description:  “Myrddin Emry’s Realm” is a one-player, text-based fantasy game

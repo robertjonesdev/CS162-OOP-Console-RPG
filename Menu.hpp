@@ -1,5 +1,4 @@
 /*********************************************************************
-** Program name:  Final Project CS 162-400, Winter 2019
 ** Author:        Robert Jones
 ** Date:          March 19, 2019
 ** Description:   Menu.hpp, Menu Class Definition

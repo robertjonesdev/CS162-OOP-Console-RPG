@@ -1,5 +1,4 @@
 /***************************************************************
-** Program name:  Final Project (CS162 Winter 2019)
 ** Author:        Robert Jones
 ** Date:          March 19, 2019
 ** Description:  Color definition file
